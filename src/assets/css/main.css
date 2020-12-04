@@ -1,0 +1,42 @@
+#app {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.router-link-exact-active {
+    font-weight: bold;
+}
+
+.btn-succes {
+    background-color: #65c796;
+}
+
+.btn-primary {
+    background-color: rgb(61, 113, 255);
+}
+
+.badge-success {
+    background-color: #65c796;
+}
+
+.card-product {
+    border-radius: 15px;
+}
+
+.card-img-top {
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+}
+
+.breadcrumb {
+    background-color: transparent;
+    padding: 0;
+}
+
+.breadcrumb-item.active {
+    font-weight: bold;
+    color: black;
+}
+
+.img-fooddetail {
+    border-radius: 15px;
+}
